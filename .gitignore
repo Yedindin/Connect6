@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,macos
@@ -126,3 +127,6 @@ Temporary Items
 *.project
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
+=======
+/bin/
+>>>>>>> branch 'master' of https://github.com/Yedindin/Connect6.git
