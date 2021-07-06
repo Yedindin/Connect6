@@ -120,7 +120,6 @@ public class Board extends JPanel implements ActionListener, MouseListener {
 				if (wState[j][i] == true) {
 					wcount++;
 					wdetect += "(" + j + ", " + i + ")";
-//				System.out.println("wcount1 " + wcount);
 					if (wcount >= 4) {
 						System.out.println("| line white : " + wdetect);
 
@@ -132,7 +131,6 @@ public class Board extends JPanel implements ActionListener, MouseListener {
 				if (bState[j][i] == true) {
 					bcount++;
 					bdetect += "(" + j + ", " + i + ") | ";
-//				System.out.println("wcount1 " + wcount);
 					if (bcount >= 4) {
 						System.out.println("| line black : " + bdetect);
 
